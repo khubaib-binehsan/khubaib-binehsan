@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [SQL Portfolio](https://github.com/khubaib-binehsan/sql-08-week-challenge)
+
+[Portfolio Projects](https://github.com/khubaib-binehsan/portfolio-projects)
 <!--
 **khubaib-binehsan/khubaib-binehsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
