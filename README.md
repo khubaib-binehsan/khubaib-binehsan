@@ -1,6 +1,6 @@
 # Hi there 👋 I am Khubaib!
 
-A passionate Data Professional and enthusiast, actively seeking opportunities in **Data Analyst / BI Developer** roles where I can leverage my skills to bring significant value to the team.
+A passionate Data Professional and enthusiast, actively seeking opportunities in **Data Analyst / Data Engineer / Analytics Engineer** roles where I can leverage my skills to bring significant value to the team.
 
 <a href="https://www.linkedin.com/in/khubaib-binehsan/" target="_blank">
   <img
