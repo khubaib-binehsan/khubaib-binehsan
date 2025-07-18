@@ -45,6 +45,7 @@ Here are direct links to some of my key projects and profiles showcasing my anal
   <tr>
     <td valign="top" width="50%">
       <strong>Data Engineering</strong><br>
+      <br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark">
       <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
@@ -54,6 +55,7 @@ Here are direct links to some of my key projects and profiles showcasing my anal
     </td>
     <td valign="top" width="50%">
       <strong>Cloud & Databases</strong><br>
+      <br>
       <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
       <img src="https://img.shields.io/badge/Microsoft_Fabric-6A00FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -63,11 +65,13 @@ Here are direct links to some of my key projects and profiles showcasing my anal
   <tr>
     <td valign="top" width="50%">
       <strong>BI & Visualization</strong><br>
+      <br>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
     </td>
     <td valign="top" width="50%">
       <strong>DevOps & Tools</strong><br>
+      <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
     </td>
