@@ -15,7 +15,6 @@ A passionate Data Professional and enthusiast, actively seeking opportunities in
   />
 </a>
 
----
 
 ## 🎯 About Me & What I Do
 
@@ -26,8 +25,6 @@ A passionate Data Professional and enthusiast, actively seeking opportunities in
     -   Engineering automated ETL pipelines with technologies like **Azure DevOps, Airflow, dbt, and Docker**.
     -   Driving data migrations and enhancing data governance strategies.
     -   Developing comprehensive **Power BI** reports and reusable templates for streamlined client onboarding.
-
----
 
 ## 📂 Portfolio & Projects
 
@@ -41,18 +38,6 @@ Here are direct links to some of my key projects and profiles showcasing my anal
 
 -   **[Tableau Public Profile](https://public.tableau.com/app/profile/khubaib6949/vizzes)**
     -   Explore my interactive data visualizations and dashboards on Tableau Public.
-
----
-
-## 🔑 Key Skills & Proficiencies
-
--   **Python:** Above Intermediate
--   **Excel:** Above Intermediate
--   **SQL:** Above Intermediate
--   **Tableau:** Above Intermediate
--   **Git:** Basic
-
----
 
 ## 💻 Tech Stack & Tools
 
@@ -96,7 +81,6 @@ Here are direct links to some of my key projects and profiles showcasing my anal
 -   Data Visualization
 -   UI/UX Principles
 
----
 
 <!-- Replace `your-github-username` with your actual GitHub username 
 ## 📊 GitHub Stats
