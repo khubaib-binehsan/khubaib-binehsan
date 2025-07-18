@@ -2,7 +2,7 @@
 
 A passionate Data Professional and enthusiast, actively seeking opportunities in **Data Analyst / BI Developer** roles where I can leverage my skills to bring significant value to the team.
 
-<a href="your-linkedin-profile-url" target="_blank">
+<a href="https://www.linkedin.com/in/khubaib-binehsan/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
