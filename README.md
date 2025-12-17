@@ -8,7 +8,7 @@ A passionate Data Professional and enthusiast, actively seeking opportunities in
     alt="LinkedIn"
   />
 </a>
-<a href="mailto:k@khubaibeh.com">
+<a href="mailto:khubaib@khubaibeh.com">
   <img
     src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
