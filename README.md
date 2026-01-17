@@ -30,6 +30,9 @@ A passionate Data Professional and enthusiast, actively seeking opportunities in
 
 Here are direct links to some of my key projects and profiles showcasing my analytical and visualization capabilities:
 
+-   **[minidispatch](https://github.com/khubaib-binehsan/minidispatch)**
+    -   A minimalistic python library for orchestration (cron scripts on steroids).
+
 -   **[SQL Portfolio](https://github.com/khubaib-binehsan/sql-08-week-challenge)**
     -   A repository containing SQL solutions for real-world business scenarios across various industries, demonstrating my ability to solve problems with SQL and present findings clearly.
 
